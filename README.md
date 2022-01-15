@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am studying computer science at Eastern!
+
 <!--
 **rogerb5/rogerb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

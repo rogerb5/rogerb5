@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 I am studying computer science at Eastern Washington University in my Senior Year!
-My main focus is front-end development and anything JavaScript.
+My main focus is front-end development and anything JavaScript. 
+For example building traditonal/experimental websites and programs.
+
+In the future I would like to learn webgl in order to delve into 3d programming
+in the browser. 
+
 
 
 <!--

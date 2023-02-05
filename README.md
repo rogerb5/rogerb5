@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am studying computer science at Eastern!
-Senior year.
+I am studying computer science at Eastern Washington University in my Senior Year!
+My main focus is front-end development and anything JavaScript.
+
+
 <!--
 **rogerb5/rogerb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I am computer science student that specializes in front-end website development.
-                My interest lie in experimental web design, applying math to data, and
-                creating art with algorithms.
 
 
 <!--
